@@ -6,6 +6,10 @@
   "name": "llm-chat-app-template",
   "main": "src/index.ts",
   "compatibility_date": "2025-04-01",
+  "route": {
+    "pattern": "example.org/*",
+    "zone_name": "example.org"
+  }
   "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
   "assets": {
     "binding": "ASSETS",
