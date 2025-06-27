@@ -9,7 +9,7 @@
   "route": {
     "pattern": "example.org/*",
     "zone_name": "example.org"
-  }
+  },
   "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
   "assets": {
     "binding": "ASSETS",
