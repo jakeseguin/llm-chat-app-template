@@ -7,8 +7,8 @@
   "main": "src/index.ts",
   "compatibility_date": "2025-04-01",
   "route": {
-    "pattern": "example.org/*",
-    "zone_name": "example.org"
+    "pattern": "*/indigenouslanguageacademy.com/*",
+    "zone_name": "indigenouslanguageacademy.com"
   },
   "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
   "assets": {
